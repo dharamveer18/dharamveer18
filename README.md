@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Backend Projects
 - 📫 How to reach me Insta:- ig_dharamveer18
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+
 
 <!---
 dharamveer18/dharamveer18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
