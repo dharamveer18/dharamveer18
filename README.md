@@ -1,8 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Paaji+2&weight=500&size=36&pause=1000&color=25F7AF&width=700&height=52&lines=Hi%2C+I'm+Pallav+Choudhary+-+Backend+Developer+++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Baloo+Paaji+2&weight=500&size=36&pause=1000&color=25F7AF&width=700&height=52&lines=Hi%2C+I'm+Dharamveer+Singh+-+Backend+Developer+++" alt="Typing SVG" /></a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/pallav29893](https://github.com/pallav29893)
+- 👨‍💻 All of my projects are available at [https://github.com/pallav29893](https://github.com/dharamveer18)
 
-- 📫 How to reach me *pallav869@gmail.com*
+- 📫 How to reach me *dharamveer22062004@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_A0gMQLLAeSdgrL7yHjdSXn1zDhU7vG3/view?usp=sharing](https://drive.google.com/file/d/1_A0gMQLLAeSdgrL7yHjdSXn1zDhU7vG3/view?usp=sharing)
 
